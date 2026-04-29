@@ -3,13 +3,14 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=>>+Initializing...;>>+Abu+Mohi+Al-Deen;>>+WERBLINE.exe;>>+AI+Mode+Activated+🤖;&center=true&size=28&color=FF00FF&background=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=>>+Initializing...;>>+Abu+Mohi+Al-Deen;>>+WERBLINE.exe;>>+AI+Mode+Activated+🤖;&font=Orbitron&center=true&size=26&color=FF00FF&width=600" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header&text=WERBLINE&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 
+<h1 align="center">✨ 𝒜𝒷𝓊 𝑀𝑜𝒽𝒾 𝒜𝓁-𝒟𝑒𝑒𝓃 | 𝒲𝐸𝑅𝐵𝐿𝐼𝒩𝐸 ✨</h1>
 <h3 align="center">AI Student 🤖 | Developer 💻 | Tech Enthusiast ⚡</h3>
 
 <p align="center">
@@ -21,6 +22,7 @@
   </a>
   <a href="https://www.instagram.com/werbline/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 ---
