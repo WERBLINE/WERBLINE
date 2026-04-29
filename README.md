@@ -9,9 +9,17 @@
 </p>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/yahya-ali-qato-3a80593a8/" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/WERBLINE" title="GitHub"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
-  <code><a href="https://www.instagram.com/werbline/" title="Instagram"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/yahya-ali-qato-3a80593a8/" title="LinkedIn">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn
+  </a></code>
+
+  <code><a href="https://github.com/WERBLINE" title="GitHub">
+    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub
+  </a></code>
+
+  <code><a href="https://www.instagram.com/werbline/" title="Instagram">
+    <img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"> Instagram
+  </a></code>
 </h5>
 
 ---
