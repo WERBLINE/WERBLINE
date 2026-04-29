@@ -15,7 +15,6 @@
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
-<br>
 
 <h1>Abu Abu Mohieddin | 𝒲𝐸𝑅𝐵𝐿𝐼𝒩𝐸 </h1>
 <h3>AI Student 🤖 | Developer 💻 | Tech Enthusiast ⚡</h3>
