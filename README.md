@@ -2,10 +2,11 @@
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;this+is+Abu+Mohi+Al-Deen....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=>>+Initializing...;>>+Abu+Mohi+Al-Deen;>>+WERBLINE.exe;>>+AI+Mode+Activated+🤖;&center=true&size=28&color=FF00FF&background=000000" />
 </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header&text=WERBLINE&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
   
 </h1>
 
