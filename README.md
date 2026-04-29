@@ -1,34 +1,32 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=WERBLINE.WERBLINE">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=>>+Initializing...;>>+Abu+Mohi+Al-Deen;>>+WERBLINE.exe;>>+AI+Mode+Activated+🤖;&center=true&size=28&color=FF00FF&background=000000" />
 </h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header&text=WERBLINE&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-  
-</h1>
 
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/yahya-ali-qato-3a80593a8/" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/WERBLINE" title="GitHub"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
+  <code><a href="https://www.instagram.com/werbline/" title="Instagram"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"> Instagram</a></code>
 </h5>
 
-<h1>Abu Abu Mohieddin | 𝒲𝐸𝑅𝐵𝐿𝐼𝒩𝐸 </h1>
-<h3>AI Student 🤖 | Developer 💻 | Tech Enthusiast ⚡</h3>
+---
 
-</div>
+<h1 align="center">Abu Mohi Al-Deen | 𝒲𝐸𝑅𝐵𝐿𝐼𝒩𝐸</h1>
+<h3 align="center">AI Student 🤖 | Developer 💻 | Tech Enthusiast ⚡</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm studying **Artificial Intelligence** at **Arab Amman University**
+- 🎓 I'm studying **Artificial Intelligence**
 - 🤖 Passionate about **Machine Learning & AI**
 - 💡 I love building projects and learning new technologies
-- 📬 Reach me: *(yahyaqato@gmail.com)*
+- 📬 Reach me: **yahyaqato@gmail.com**
 
 ---
 
