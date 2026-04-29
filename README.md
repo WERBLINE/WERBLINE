@@ -17,7 +17,7 @@
 </h5>
 <br>
 
-<h1>Hi 👋, I'm Abu Abu Mohieddin | 𝒲𝐸𝑅𝐵𝐿𝐼𝒩𝐸 </h1>
+<h1>I'm Abu Abu Mohieddin | 𝒲𝐸𝑅𝐵𝐿𝐼𝒩𝐸 </h1>
 <h3>AI Student 🤖 | Developer 💻 | Tech Enthusiast ⚡</h3>
 
 </div>
