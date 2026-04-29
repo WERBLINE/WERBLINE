@@ -21,7 +21,6 @@
   </a>
   <a href="https://www.instagram.com/werbline/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  
 </p>
 
 ---
@@ -54,21 +53,21 @@
 
 ---
 
-## 🛠️ Terminal
+## 🤖 System Status
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Abu Mohi Al-Deen"
-        self.alias = "WERBLINE"
-        self.languages = ["Python", "C++", "Java"]
-        self.web = ["HTML", "CSS", "JavaScript"]
-        self.tools = ["Git", "VS Code", "Linux"]
-        self.interests = ["AI", "Machine Learning", "Problem Solving"]
-        
-    def say_hi(self):
-        print(f"Hello World! I'm {self.name}, also known as {self.alias}.")
-        print(f"I'm an AI student focusing on {self.interests[0]} & {self.interests[1]}.")
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=werbline@ai-server:~$+booting+up...;werbline@ai-server:~$+loading+neural+networks...;werbline@ai-server:~$+compiling+new+ideas...;[+]+System+Online!+Ready+to+code!+🚀&font=Fira+Code&size=18&pause=1000&color=00F7FF&background=0D1117&width=600&height=60" alt="Animated Terminal" />
+</div>
 
-me = Developer()
-me.say_hi()
+---
+
+## 🏆 GitHub Trophies & Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WERBLINE&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WERBLINE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WERBLINE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+</div>
