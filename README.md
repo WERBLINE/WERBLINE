@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=>>+Initializing...;>>+Abu+Mohi+Al-Deen;>>+WERBLINE.exe;>>+AI+Mode+Activated+🤖;&font=Orbitron&center=true&size=26&color=FF00FF&width=600" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=>>+Initializing...;>>+Abu+Mohi+Al-Deen;>>+WERBLINE.exe;>>+AI+Mode+Activated+🤖;&font=Orbitron&center=true&size=26&color=00FFFF&width=600" alt="Typing SVG" />
 </h1>
 
 <p align="center">
